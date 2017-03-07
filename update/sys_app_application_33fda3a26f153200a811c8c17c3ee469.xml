@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Testppp</name>
+        <order/>
+        <roles>x_snc_tqwestppp.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>prashant.parbhane@snc</sys_created_by>
+        <sys_created_on>2017-03-07 21:05:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33fda3a26f153200a811c8c17c3ee469</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Testppp</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Testppp" source="x_snc_tqwestppp">fffd63626f153200a811c8c17c3ee45d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Testppp">fffd63626f153200a811c8c17c3ee45d</sys_scope>
+        <sys_update_name>sys_app_application_33fda3a26f153200a811c8c17c3ee469</sys_update_name>
+        <sys_updated_by>prashant.parbhane@snc</sys_updated_by>
+        <sys_updated_on>2017-03-07 21:05:50</sys_updated_on>
+        <title>Testppp</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
